@@ -1,20 +1,12 @@
 <template>
   <div>
     <Hero />
-    <div>
-      <ServiceShowcase />
-    </div>
-
-    <div>
-      <InfluencerShowcase />
-    </div>
-    <div>
-      <CampaignShowcase />
-    </div>
-
-    <div>
-      <CallToAction />
-    </div>
+    <AdvertisementComponent />
+    <ServiceShowcase />
+    <InfluencerShowcase />
+    <CampaignShowcase />
+    <CallToAction />
+    
   </div>
 </template>
 
@@ -24,6 +16,7 @@ import ServiceShowcase from "../components/ServicesShowcase.vue";
 import InfluencerShowcase from "../components/InfluencerShowcase.vue";
 import CampaignShowcase from "../components/CampaignShowcase.vue";
 import CallToAction from "../components/CallToAction.vue";
+import AdvertisementComponent from "../components/AdvertisementComponent.vue"; // Import your advertisement component
 
 export default {
   name: "Home",
@@ -33,6 +26,7 @@ export default {
     InfluencerShowcase,
     CampaignShowcase,
     CallToAction,
+    AdvertisementComponent, // Register the advertisement component
   },
 };
 </script>
@@ -40,3 +34,4 @@ export default {
 <style scoped>
 /* Add any custom styles for the home page */
 </style>
+
