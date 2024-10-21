@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import CallToAction from '../components/CallToAction.vue'
-import { ref, onMounted } from 'vue';
+import { ref, onMounted,Ref } from 'vue';
 
 const companyInfo = {
   name: 'Dala U Crew',

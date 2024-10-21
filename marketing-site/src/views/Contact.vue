@@ -63,7 +63,7 @@
       <div class="mt-16">
         <h2 class="text-3xl font-semibold text-white mb-4 text-center">Find Us Here</h2>
         <div class="w-full h-64 rounded-xl overflow-hidden shadow-lg">
-          <iframe class="w-full h-full" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345094243!2d144.95373531531544!3d-37.81627997975168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f0629b9%3A0xd2be81cd02f90331!2sYour%20Company!5e0!3m2!1sen!2sau!4v1615435266047!5m2!1sen!2sau" allowfullscreen="" loading="lazy"></iframe>
+          <iframe class="w-full h-full" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345094243!2d144.95373531531544!3d-37.81627997975168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f0629b9%3A0xd2be81cd02f90331!2sYour%20Company!5e0!3m2!1sen!2sau!4v1615435266047!5m2!1sen!2sau" allowfullscreen loading="lazy"></iframe>
         </div>
       </div>
     </div>
