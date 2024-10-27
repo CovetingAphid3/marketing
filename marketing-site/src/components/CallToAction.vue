@@ -12,7 +12,7 @@
         </h2>
         <p class="text-xl text-blue-100 mb-10">
           Join the ranks of successful brands that have skyrocketed their online
-          presence with Dala U Crew. Let's create your next viral campaign
+          presence with our team. Let's create your next viral campaign
           together!
         </p>
         <div class="flex flex-wrap justify-center gap-6 mb-12">

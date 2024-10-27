@@ -54,7 +54,7 @@ export default {
         },
         {
           id: 6,
-          quote: "Dala U Crew gave our brand a new voice and amplified our presence across all platforms.",
+          quote: "They gave our brand a new voice and amplified our presence across all platforms.",
           author: "David Green",
           position: "Creative Director, InstaBuzz"
         },

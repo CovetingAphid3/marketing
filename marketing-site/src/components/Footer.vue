@@ -4,7 +4,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <!-- About Section -->
         <div>
-          <h3 class="text-xl font-semibold text-white mb-4">Dala U Crew</h3>
+          <h3 class="text-xl font-semibold text-white mb-4">Company Name</h3>
           <p class="mb-4">
             We create content that entertains and engages your audience while
             promoting your brand. Let us help you stand out with captivating and
@@ -61,7 +61,7 @@
           <h3 class="text-xl font-semibold text-white mb-4">Connect With Us</h3>
           <div class="flex space-x-4">
             <a
-              href="https://www.facebook.com/DalaUCrew"
+              href="https://www.facebook.com"
               class="text-gray-400 hover:text-yellow-400 transition duration-300"
               aria-label="Facebook"
             >
@@ -76,7 +76,7 @@
               </svg>
             </a>
             <a
-              href="https://www.instagram.com/DalaUCrew"
+              href="https://www.instagram.com"
               class="text-gray-400 hover:text-yellow-400 transition duration-300"
               aria-label="Instagram"
             >
@@ -91,7 +91,7 @@
               </svg>
             </a>
             <a
-              href="https://www.twitter.com/DalaUCrew"
+              href="https://www.twitter.com/"
               class="text-gray-400 hover:text-yellow-400 transition duration-300"
               aria-label="Twitter"
             >
@@ -111,7 +111,7 @@
 
       <!-- Copyright Section -->
       <div class="text-center text-sm mt-8">
-        <p>&copy; 2024 Dala U Crew. All rights reserved.</p>
+        <p>&copy; 2024 Company Name. All rights reserved.</p>
       </div>
     </div>
   </footer>

@@ -6,15 +6,15 @@
       <!-- Logo and Title Section -->
       <div class="flex items-center space-x-4">
         <img
-          src="/assets/logo.jpg"
-          alt="Dala U Crew Logo"
+          src="/assets/camera.jpg"
+          alt="Logo"
           class="w-12 h-12 rounded-full object-cover shadow-lg border-2 border-blue-500"
         />
         <a
           href="#"
           class="text-2xl font-bold text-blue-500 hover:text-blue-400 transition-colors duration-300"
         >
-          Dala U Crew
+                    Company Name
         </a>
       </div>
       <!-- Navigation Links -->

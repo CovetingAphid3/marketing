@@ -3,7 +3,7 @@ import CallToAction from '../components/CallToAction.vue'
 import { ref, onMounted,Ref } from 'vue';
 
 const companyInfo = {
-  name: 'Dala U Crew',
+  name: 'Company Name',
   followers: 1500001,
   influencers: 41,
   region: 'South Africa',
@@ -46,7 +46,7 @@ onMounted(() => {
     <div class="container mx-auto text-center">
       <h1 class="text-5xl font-extrabold text-white mb-6">Who We Are</h1>
       <p class="text-lg text-white mb-12 max-w-2xl mx-auto">
-        At Dala U Crew, we specialize in creating viral marketing campaigns that engage, inspire, and elevate your brand. With a team of creative strategists and a community of influencers, we're here to turn your brand into a social sensation.
+        At our company, we specialize in creating viral marketing campaigns that engage, inspire, and elevate your brand. With a team of creative strategists and a community of influencers, we're here to turn your brand into a social sensation.
       </p>
     </div>
 
@@ -81,7 +81,7 @@ onMounted(() => {
         </p>
       </div>
       <div class="rounded-lg overflow-hidden shadow-lg">
-        <img src="" alt="Dala U Crew Team" class="w-full object-cover h-80 lazyload">
+        <img src="" alt="Team" class="w-full object-cover h-80 lazyload">
       </div>
     </div>
 
